@@ -23,7 +23,6 @@
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-java2wsdl-1.6.1.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-jaxbri-1.6.1.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-jaxws-1.6.1.jar"/>
-	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-jibx-1.6.1.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-json-1.6.1.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-kernel-1.6.1.jar"/>
 	<classpathentry kind="lib" path="DATAVIEW/WebContent/WEB-INF/lib/axis2-metadata-1.6.1.jar"/>
