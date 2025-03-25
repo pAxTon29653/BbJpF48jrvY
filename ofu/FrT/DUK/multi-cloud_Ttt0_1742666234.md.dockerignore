@@ -23,7 +23,6 @@ Dockerfile
 .git/
 .github/
 
-# IDEs
 .idea/
 
 # debug
