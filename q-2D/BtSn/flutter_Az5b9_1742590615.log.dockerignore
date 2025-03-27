@@ -2,7 +2,6 @@ app/db/SQL
 node_modules
 storage
 .git
-.idea
 .cd .babelrc
 .DS_Store
 debug
